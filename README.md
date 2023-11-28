@@ -1,6 +1,5 @@
 ### Hi there👋, Here is my Github profile.
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F01313&background=F0F0F000&center=true&vCenter=true&random=false&width=800&lines=Full+Stack+web+and+App+developer;Experienced+backend+Developer;Always+learning+new+things;Muchiri+Antony+)](https://git.io/typing-svg)
 
 <br>
@@ -27,7 +26,5 @@ My name is <b>Muchiri Antony</b>, I'm from Kenya, and I'm a <b>Software Engineer
 
 ## Lets connect.
 
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
-	https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white
+
 
