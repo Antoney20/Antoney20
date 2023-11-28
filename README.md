@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 
-**Antoney20/Antoney20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Antoney20/Antoney20**  a ✨ _special_ ✨ 
+
+My name is <b>Muchiri Antony</b>, I'm from Kenya, and I'm a <b>software engineer <i> and a </i> Tech ethusiast </b>. I'm passionate about Python, Django,and other programming languages, and I aspire to be Software Developer and DevOps Engineer.I strongly beleive that with use of available cloud infrastructures, one can implement serverless applications that are secure, reliable and highly scalable that are accessible to users worldwide. I want to help create innovative solutions for real world problems and make our world a better place. I'm excited to continue learning and expanding my skills in this area, and hope to contribute valuable insights to the communities I belong to. Thank you for reading! :)
 
 ## Currently working on:
 
