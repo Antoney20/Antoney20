@@ -4,6 +4,10 @@
 
 <br>
 My name is <b>Muchiri Antony</b>,<br> I'm from Kenya,I'm a <b>Software Engineer </b> and a Tech ethusiast . <br>I'm passionate about Programming using; HTML, CSS, JS, Bootstrap, TailwindCSS and React for frontend development and, Python, Django, PHP, Laravel, Firebase for backend development with familiarity of databases such as MySql, PostgreSQL, SQL. <br>I aspire to be Software Developer and DevOps Engineer.I strongly beleive that with use of available cloud infrastructures, one can implement serverless applications that are secure, reliable and highly scalable that are accessible to users worldwide. I want to help create innovative solutions for real world problems and make our world a better place.<br> I'm excited to continue learning and expanding my skills, and hope to contribute valuable insights to the communities I belong to.<br> Thank you for reading! :)
+<details>
+<summary> Example</summary>
+ Onee
+</details>
 
 ## Stats and Activity
 [![GitHub Streak](https://streak-stats.demolab.com?user=Antoney20)](https://git.io/streak-stats)
