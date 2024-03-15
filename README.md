@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F01313&background=DCDCDC&center=true&vCenter=true&random=false&width=800&lines=Full+stack+web+and+app+developer;Experienced+backend+Developer;Always+learning+new+things;Muchiri+Antony+M+;Software+Engineer)](https://git.io/typing-svg)
 
-<br>
+<hr>
 
 I'm **Muchiri Antony** from 🇰🇪, a passionate **Software Engineer** and tech enthusiast. 💻
 
@@ -27,8 +27,11 @@ I'm **Muchiri Antony** from 🇰🇪, a passionate **Software Engineer** and tec
 ![](https://github-contributor-stats.vercel.app/api?username=Antoney20&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Antoney20&icon=0&color=0)](https://visitcount.itsvg.in)
-Say Hello! <hr>
+[![](https://visitcount.itsvg.in/api?id=Antoney20&icon=0&color=0)](https://visitcount.itsvg.in) <hr>
+
+# Portfolio Website
+
+🌐 Check out my portfolio website [Click here ](https://antoney20.github.io/Portfolio/#portfolio)! or on vercel [Click here!](https://antoney20.vercel.app/)
 
 ## Currently working on:
 
