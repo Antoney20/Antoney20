@@ -13,9 +13,6 @@ My name is <b>Muchiri Antony</b>,<br> I'm from Kenya,I'm a <b>Software Engineer 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Antoney20&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Antoney20&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Antoney20&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
@@ -33,12 +30,12 @@ My name is <b>Muchiri Antony</b>,<br> I'm from Kenya,I'm a <b>Software Engineer 
 <ul>🌱 Django, React and firebase are the programming languages am using to implement my solutions currently.</ul>
 <br>
 
-## 🌐 Socials:
+## 🌐 Lets connect:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/www.facebook.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/antoney20) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@tiktok) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Antoney_20) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@youtube) 
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-## Lets connect.
 
 
 
