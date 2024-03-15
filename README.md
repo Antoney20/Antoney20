@@ -2,9 +2,7 @@
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F01313&background=DCDCDC&center=true&vCenter=true&random=false&width=800&lines=Full+stack+web+and+app+developer;Experienced+backend+Developer;Always+learning+new+things;Muchiri+Antony+M+;Software+Engineer)](https://git.io/typing-svg)
- 
-<br>
-
+ <br>
 I'm **Muchiri Antony** from 🇰🇪, a passionate **Software Engineer** and tech enthusiast. 💻
 
 🚀 I specialize in:
