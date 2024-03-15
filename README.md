@@ -39,9 +39,6 @@ My name is <b>Muchiri Antony</b>,<br> I'm from Kenya,I'm a <b>Software Engineer 
 <ul>🌱 Django, React and firebase are the programming languages am using to implement my solutions currently.</ul>
 <br>
 
-## Languages and Tools
-![Antoney20_langs](https://github.com/Antoney20/Antoney20/assets/101004140/6bef2dd7-bfc7-4b01-878a-ee7265dc5330)
-
 
 ## Lets connect.
 
