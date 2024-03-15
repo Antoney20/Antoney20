@@ -39,6 +39,10 @@ My name is <b>Muchiri Antony</b>,<br> I'm from Kenya,I'm a <b>Software Engineer 
 <ul>🌱 Django, React and firebase are the programming languages am using to implement my solutions currently.</ul>
 <br>
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/www.facebook.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/antoney20) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@tiktok) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Antoney_20) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@youtube) 
+
+
 
 ## Lets connect.
 
