@@ -28,6 +28,7 @@ I'm **Muchiri Antony** from 🇰🇪, a passionate **Software Engineer** and tec
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Antoney20&icon=0&color=0)](https://visitcount.itsvg.in)
+Say Hello! <hr>
 
 ## Currently working on:
 
