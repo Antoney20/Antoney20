@@ -7,8 +7,9 @@ I'm **Muchiri Antony** from 🇰🇪, a passionate **Software Engineer** and tec
 
 🚀 I specialize in:
 - Frontend: HTML, CSS, JS, Bootstrap, TailwindCSS, React
-- Backend: Python, Django, PHP, Laravel, Firebase
+- Backend: Python, Django, PHP, Laravel, Java, Spring
 - Databases: MySQL, PostgreSQL, SQL
+- Cloud: Firebase, Vercel, AWS, Google Cloud Platform, Digital Ocean.
 
 🌱 I working on leveraging and utilizing cloud infrastructures to build secure, reliable, and scalable serverless applications that serve users worldwide, solving real-world problems and making a positive impact. 
 
