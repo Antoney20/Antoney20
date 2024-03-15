@@ -35,7 +35,7 @@ I'm **Muchiri Antony** from 🇰🇪, a passionate **Software Engineer** and tec
 - 👯 Fell free to collaborate with Me ✨ ...
 ## About me
 <ul>🔭 I’m a graduate from Kirinyaga University with Bachelors Degree <b>Software Engineering </b> ✨ .</ul>
-<ul>💻 Most used line of code git commit -m "Initial Commit"</ul>
+<ul>💻 Most used line of code git commit -m "fixing bug--bugname--"</ul>
 <ul>👀 I'd like to learn more about cloud solutions and technologies.</ul>
 <ul>🌱 Django, React and firebase are the programming languages am using to implement my solutions currently.</ul>
 <br>
