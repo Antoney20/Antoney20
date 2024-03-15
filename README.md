@@ -1,7 +1,7 @@
 # Hi there! 👋
 <br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F01313&background=F0F0F000&center=true&vCenter=true&random=false&width=800&lines=Full+Stack+web+and+App+developer;Experienced+backend+Developer;Always+learning+new+things;Muchiri+Antony+)](https://git.io/typing-svg)
-
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F01313&background=F0F0F000&center=true&vCenter=true&random=false&width=800&lines=Full+Stack+web+and+App+developer;Experienced+backend+Developer;Always+learning+new+things;Muchiri+Antony+)](https://git.io/typing-svg)
+<br>
 
 I'm **Muchiri Antony** from 🇰🇪, a passionate **Software Engineer** and tech enthusiast. 💻
 
