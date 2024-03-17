@@ -8,7 +8,7 @@ I'm **Muchiri Antony** from Kenya, a passionate **Software Engineer** and Tech e
 
 🚀 I specialize in:
 - Frontend: HTML, CSS, JS, Bootstrap, TailwindCSS, React
-- Backend: Python, Django, PHP, Laravel, Java, Spring
+- Backend: Python, Django, PHP, Laravel, Java.
 - Mobile app: Java, React Native.
 - Databases: MySQL, PostgreSQL, SQL
 - Cloud: Firebase, Vercel, AWS, Google Cloud Platform, Digital Ocean.
@@ -51,7 +51,7 @@ I'm **Muchiri Antony** from Kenya, a passionate **Software Engineer** and Tech e
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-Thank you for reading! 😊
+Thank you for reading! Welcome😊 
 
 
 
