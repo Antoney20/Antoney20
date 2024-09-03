@@ -32,7 +32,7 @@ I'm **Muchiri Antony** from Kenya, a **Software Engineer** and a passionate Tech
 ## Currently working on:
 
 - 🔭 I’m currently working on creating a **dynamic web application** using React and Django. While harnessing the capabilities of Django rest Framework to create the API's endpoints. <br>The backend is to be hosted on google cloud, and frontend UI on Firebase. Its gonna be exciting⚡⚡⚡.<br>
-- 👯 Fell free to collaborate with Me ✨ ... 
+- 👯 Feel free to collaborate with Me ✨ ... 
 ## About me
 <ul> :book: Graduate - Bachelor's degree. <b>Software Engineering</b> ✨ .</ul>
 <ul>💻 Most used line of code git commit -m "fixing bug--bugname--"</ul>
