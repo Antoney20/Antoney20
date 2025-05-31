@@ -20,7 +20,7 @@ I'm **Muchiri Antony Mutwiri**, a passionate **Software Engineer** from Nairobi,
 - 🔭 **Software development** at CEMA, building analytics platforms and health monitoring systems
 - 🌱 **Exploring** advanced cloud architectures and serverless technologies
 - 👯 **Open to collaborate** on innovative projects that solve real-world problems
-- 💡 **Building** scalable solutions with React, Node.js, and cloud infrastructure
+- 💡 **Building** scalable solutions, optimizing software solutions.
 
 ---
 
